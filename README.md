@@ -1,8 +1,8 @@
-# Digitale Schule
+# Digitale Schule: Good/Best Practices für Corona-Zeiten
 
-Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hintergrund](#Hintergrund)), mit der Bitte um "Good/Best Practices" für Digitalen Unterricht.
+Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hintergrund](#hintergrund)), mit der Bitte um "Good/Best Practices" für Digitalen Unterricht.
 
-- [Zusammenfassung der Ergebnisse](#Zusammenfassung-der-Ergebnisse)
+- [Zusammenfassung der Ergebnisse](#zusammenfassung-der-ergebnisse)
 - [Mitmachen](#mitmachen)
 
 ## Zusammenfassung der Ergebnisse
