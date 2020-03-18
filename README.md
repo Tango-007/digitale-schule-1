@@ -1,49 +1,83 @@
 # Digitale Schule: Good/Best Practices für Corona-Zeiten
 
-Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hintergrund](#hintergrund)), mit der Bitte um "Good/Best Practices" für Digitalen Unterricht.
+Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hintergrund](#hintergrund)), mit der Bitte um "Good/Best Practices" für Digitalen Unterricht. Die Ergebnisse findet Ihr hier.
 
+[Stand vom 18. März 2020 um 15:15 Uhr]
 
 - [Positive Rückmeldungen](#zusammenfassung-der-ergebnisse)
 - [Probleme und Herausforderungen](#aktuelle-probleme-und-herausforderungen)
 - [Wer will mitmachen?](#mitmachen)
 
+
 ## Positive Rückmeldungen
 
-### How To...
+### How To... 
 
 - @ElliGymEisenach hat [Best Practices beim Onlineunterricht (Infografik)](https://twitter.com/ElliGymEisenach/status/1240025785697779712/photo/1)
 
-- @heibie's Kinder machen [Skype-Konferenz mit Ihrer Grundschul-Lehrerin und 20 anderen Kindern](https://twitter.com/heibie/status/1240211265106083841)
+- @heibie's Kinder in der vierten Klasse machen [Skype-Konferenz mit Ihrer Grundschul-Lehrerin und 20 anderen Kindern](https://twitter.com/heibie/status/1240211265106083841)
 
+- @hi_mue schreibt von ["Mischungen aus Live-Chats und asynchronen Lehrgängen"](https://twitter.com/imhoHOF/status/1240106066207289344)
 
+- @je_schop schreibt, dass [er mit 22 Schülerinnen und Schülern im Videochat war](https://twitter.com/je_schop/status/1240031298149920768)
 
+- @tmistert schreibt, man habe [Aufgaben für alle ausfallenden Stunden auf die Schulwebsite hochgeladen](https://twitter.com/FrauGroddeck/status/1240279485192249347)
 
 ### Tools
 
 - @thommy02084982 berichtet von einem [DSGVO-konformen Einsatz einer "Nextcloud" Instanz](https://twitter.com/thommy02084982/status/1240264546503319553)
 
+- @sunnyheza berichtet davon, dass die Medien-AG ihrer Schule eine Cloud eingerichtet hat, dort ausgefüllte Arbeitsblätter von Schülern hochgeladen werden und [Lehrer/Lehrerinnen nun via Telefon und Email Feedback geben](https://twitter.com/sunnyheza/status/1240181872514269186)
+
+
 - @thommy02084982 berichtet von Messenger-Tools [Threema (kostenpflichtig) oder Wire](https://twitter.com/thommy02084982/status/1240264546503319553)
 
 
-- @stswir (Winterhuder Reformschule)( macht [gut Erfahrungen mit padlet.com](https://twitter.com/stswir/status/1240008285765472256)
+- @stswir (Winterhuder Reformschule) macht [gut Erfahrungen mit padlet.com](https://twitter.com/stswir/status/1240008285765472256)
 
-- @JoBencke berichtet, dass seine Kids [iServ nutzen](https://twitter.com/JoBencke/status/1240258453483945984)
+- @JoBencke berichtet, dass seine Kids [iServ nutzen](https://twitter.com/JoBencke/status/1240258453483945984), @Niehausinworten [nutzt es in der Schule, in der er arbeitet](https://twitter.com/Niehausinworten/status/1240157201093844999)
 
 - @aguelzow berichtet vom [Portal der Wolfsburger Bildungslandschaft](https://twitter.com/aguelzow/status/1240242065986015232)
 
+- @FrauGroddeck berichtet über [E-Mail, OneDrive, Teams und Online-Besprechungen](https://twitter.com/FrauGroddeck/status/1240279485192249347)
 
-### Sport
+
+
+### Links zu gutem Content
 
 - [Sportunterricht in der Coronazeit mit Material von @w1masu](https://padlet.com/jm_oleander23/sjd2h4djkr27) (Danke @cervus)
 
 
 ## Aktuelle Probleme und Herausforderungen
 
+### Problem: Rechtslage / Datenschutz / DSGVO
+
+Viele Lehrer & Schulleitungen haben anscheinend Sorge, dass Sie wegen **Verstößen gegen den Datenschutz**+ verklagt werden:
+
+- @reaverhunter schreibt ["man darf nichts, weil die Angst bei den Juristen in der Behörde sehr groß ist, verklagt zu werden"](https://twitter.com/reaverhunter/status/1240163584803471361)
+
+- @teacheridoo spricht von ["... wird konsequent geblockt wegen datenschutzrechtlicher Bedenken"](https://twitter.com/teacheridoo/status/1240132222952321027)
+- @FinChen zitiert [fehlende "Freigaben für dienstliche Kommunikation"](https://twitter.com/FinChen46307572/status/1240235482509914112)
+
+### Problem: Keine IT-Infrastruktur, kein IT-Know How und keine Kapazitäten
+
+- @imhoHOF schreibt, es fehle an Intrastruktur, [man arbeite an "Platz auf der Homepage"](https://twitter.com/imhoHOF/status/1240106066207289344)
+
+
 ### Problem: Kein guter, digialer Content 
 
 - @sthenes berichtet, [dass es an gutem Online-Content fehlt](https://twitter.com/sthenes/status/1240219782298980352?s=20)
 
-### Problem: Jeder backt seinen eigenen Kuchen
+### Problem: Warten auf "Nachricht von oben"
+
+- [@DerChC schreibt das man ihn sagte "da muss was vom Schulträger kommen"](https://twitter.com/DerChC/status/1240255366295957504?s=20)
+
+
+### Problem: Bedenken wegen um Zugangsmöglichkeiten für alle Schüler
+
+- @koernal 
+
+### Problem: Jedes Bundesland backt seinen eigenen Kuchen
 
 - Bundesregierung/BMBF fördert die [HPI Schul-Cloud](https://schul-cloud.org/)
 - Baden Würtemberg [versucht sich an "ella"](https://www.swr.de/swraktuell/baden-wuerttemberg/Nach-dem-Aus-fuer-Ella-Neustart-fuer-eine-digitale-Bildungsplattform-in-BW,ella-neustart-100.html)
@@ -52,29 +86,19 @@ Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hinter
 - Bayern: Mebis
  
 
-
-### Problem: Warten auf "Nachricht von oben"
-
-- [@DerChC schreibt das man ihn sagte "da muss was vom Schulträger kommen"](https://twitter.com/DerChC/status/1240255366295957504?s=20)
-
-
-### Problem: Rechtslage / Datenschutz / DSGVO
-
-Viele Lehrer & Schulleitungen haben anscheinend Sorge, dass Sie wegen **Verstößen gegen den Datenschutz**+ verklagt werden:
-
-- @teacheridoo spricht von ["... wird konsequent geblockt wegen datenschutzrechtlicher Bedenken"](https://twitter.com/teacheridoo/status/1240132222952321027)
-- @FinChen zitiert [fehlende "Freigaben für dienstliche Kommunikation"](https://twitter.com/FinChen46307572/status/1240235482509914112)
-  
-    
-
 ### Problem: IT-Sicherheit und Skalierbarkeit
 
 - [Denial of Service Hacker-Attacke auf Bayern's Lernplattform Mebis](https://www.sueddeutsche.de/bayern/bayern-mebis-hackerangriff-1.4846987)
 
 
+## Weitere Quellen
+
+- @Ines_MueVo berichtet von [weiteren Quellen](https://twitter.com/Ines_MueVo/status/1240171749653839872)
+
 ##  Mitmachen!
 
-- Für alle Nicht-Techniker: Ich arbeite dran
+- Für alle Nicht-Techniker: Gern weiter via Twitter an [@MrSebastianApel](https://twitter.com/MrSebastianApel)
+
 - Für alle Techniker: Schickt mir einen Pull Request. 
 
 
