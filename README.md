@@ -12,9 +12,5 @@ xxx
 
 ##  Mitmachen!
 
-Im [Wiki](https://github.com/SebastianApel/digitale-schule/wiki) sind die Antworten gesammlt.
-
-Derzeit ist das Wiki "World Writeable" - es kann also jeder Interessierte die Inhalte verändern / ergänzen!
-
-Viele Grüße,
-Sebastian
+- Für alle Nicht-Techniker: Ich arbeite dran
+- Für alle Techniker: -Schickt mir einen Pull Request. 
