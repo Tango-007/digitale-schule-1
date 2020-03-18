@@ -1,6 +1,5 @@
 # Digitale Schule
 
-{% include toc.html html=content %}
 
 ## Hintergrund
 
@@ -17,4 +16,4 @@ WIP
 ##  Mitmachen!
 
 - Für alle Nicht-Techniker: Ich arbeite dran
-- Für alle Techniker: -Schickt mir einen Pull Request. 
+- Für alle Techniker: Schickt mir einen Pull Request. 
