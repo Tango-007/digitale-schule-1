@@ -25,28 +25,37 @@ Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hinter
 
 ### Tools
 
+#### Messenger
+
+- @thommy02084982 berichtet von Messenger-Tools [Threema (kostenpflichtig) oder Wire](https://twitter.com/thommy02084982/status/1240264546503319553)
+
+- @bot_surfer hat eine gute [Übersicht hinsichtlich der Datenschutz-/Verschlüsselungs-Eigenschaften von Messenger-Tools](https://twitter.com/bot_surfer/status/1240337763758747649)
+
+#### Open-Source Cloud Plattformen
+
 - @thommy02084982 berichtet von einem [DSGVO-konformen Einsatz einer "Nextcloud" Instanz](https://twitter.com/thommy02084982/status/1240264546503319553)
 
 - @sunnyheza berichtet davon, dass die Medien-AG ihrer Schule eine Cloud eingerichtet hat, dort ausgefüllte Arbeitsblätter von Schülern hochgeladen werden und [Lehrer/Lehrerinnen nun via Telefon und Email Feedback geben](https://twitter.com/sunnyheza/status/1240181872514269186)
 
 
-- @thommy02084982 berichtet von Messenger-Tools [Threema (kostenpflichtig) oder Wire](https://twitter.com/thommy02084982/status/1240264546503319553)
-
+#### Kommerzielle Tools / Plattformen
 
 - @stswir (Winterhuder Reformschule) macht [gut Erfahrungen mit padlet.com](https://twitter.com/stswir/status/1240008285765472256)
 
 - @JoBencke berichtet, dass seine Kids [iServ nutzen](https://twitter.com/JoBencke/status/1240258453483945984), @Niehausinworten [nutzt es in der Schule, in der er arbeitet](https://twitter.com/Niehausinworten/status/1240157201093844999)
 
-- @aguelzow berichtet vom [Portal der Wolfsburger Bildungslandschaft](https://twitter.com/aguelzow/status/1240242065986015232)
-
 - @FrauGroddeck berichtet über [E-Mail, OneDrive, Teams und Online-Besprechungen](https://twitter.com/FrauGroddeck/status/1240279485192249347)
 
-- @MrsImpertinent berichtet ebenfalls über [Microsoft Teams](https://twitter.com/MrsImpertinent/status/1239949894103830529
+- @MrsImpertinent berichtet ebenfalls über [Microsoft Teams](https://twitter.com/MrsImpertinent/status/1239949894103830529)
 
+
+#### Sonstige Tools / Plattformen
+
+- @aguelzow berichtet vom [Portal der Wolfsburger Bildungslandschaft](https://twitter.com/aguelzow/status/1240242065986015232)
 
 ### Links zu gutem Content
 
-- [Sportunterricht in der Coronazeit mit Material von @w1masu](https://padlet.com/jm_oleander23/sjd2h4djkr27) (Danke @cervus)
+- @cervus: Danke für den Link zu [Sportunterricht in der Coronazeit mit Material von @w1masu](https://padlet.com/jm_oleander23/sjd2h4djkr27)
 
 
 ## Aktuelle Probleme und Herausforderungen
@@ -77,7 +86,7 @@ Viele Lehrer & Schulleitungen haben anscheinend Sorge, dass Sie wegen **Verstö�
 
 ### Problem: Bedenken wegen um Zugangsmöglichkeiten für alle Schüler
 
-- @koernal 
+ 
 
 ### Problem: Jedes Bundesland backt seinen eigenen Kuchen
 
