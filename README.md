@@ -1,8 +1,8 @@
 # Digitale Schule: Good/Best Practices für Corona-Zeiten
 
-Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hintergrund](#hintergrund)), mit der Bitte um "Good/Best Practices" für Digitalen Unterricht. Die Ergebnisse findet Ihr hier.
+Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet, mit der Bitte um "Good/Best Practices" für Digitalen Unterricht. Die Ergebnisse findet Ihr hier.
 
-[Stand vom 18. März 2020 um 15:45 Uhr]
+[Stand vom 18. März 2020 um 21:15 Uhr]
 
 - [Positive Rückmeldungen](#zusammenfassung-der-ergebnisse)
 - [Probleme und Herausforderungen](#aktuelle-probleme-und-herausforderungen)
@@ -31,6 +31,9 @@ Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hinter
 
 - @bot_surfer hat eine gute [Übersicht hinsichtlich der Datenschutz-/Verschlüsselungs-Eigenschaften von Messenger-Tools](https://twitter.com/bot_surfer/status/1240337763758747649)
 
+- Discord, Schoolfox, Zoom: siehe [kommerzielle Tools](#kommerzielle-tools--plattformen)
+
+
 #### Open-Source Cloud Plattformen
 
 - @thommy02084982 berichtet von einem [DSGVO-konformen Einsatz einer "Nextcloud" Instanz](https://twitter.com/thommy02084982/status/1240264546503319553)
@@ -47,6 +50,12 @@ Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hinter
 - @FrauGroddeck berichtet über [E-Mail, OneDrive, Teams und Online-Besprechungen](https://twitter.com/FrauGroddeck/status/1240279485192249347)
 
 - @MrsImpertinent berichtet ebenfalls über [Microsoft Teams](https://twitter.com/MrsImpertinent/status/1239949894103830529)
+
+- @Simone04386412 fragte nach Details bzgl. [Discord](https://twitter.com/Simone04386412/status/1240352726686498821)
+
+- [https://schoolfox.com/](https://schoolfox.com/) -> Kann da jemand drüber berichten?
+
+- [https://zoom.com](https://zoom.com) -> Kann da jemand drüber berichten?
 
 
 #### Sonstige Tools / Plattformen
@@ -112,12 +121,5 @@ Viele Lehrer & Schulleitungen haben anscheinend Sorge, dass Sie wegen **Verstö�
 
 - Für alle Techniker: Schickt mir einen Pull Request. 
 
-
-## Hintergrund
-
-So hat alles angefangen:
-
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="de" dir="ltr">Seit gestern, 17.03.2020 sitzen meine Kinder wegen <a href="https://twitter.com/hashtag/COVID2019?src=hash&amp;ref_src=twsrc%5Etfw">#COVID2019</a> mit je 50 Arbeitsblättern zu Hause. <a href="https://twitter.com/hashtag/Digitalisierung?src=hash&amp;ref_src=twsrc%5Etfw">#Digitalisierung</a>? Keine Spur. Habe Klassenlehrern, Schulleitung und Schulamt Hilfe angeboten. Keine Resonanz. Traurig. Suche positive Gegenbeispiele. Wer kennt welche? <a href="https://twitter.com/blume_bob?ref_src=twsrc%5Etfw">@blume_bob</a>?</p>&mdash; Sebastian Apel (@MrSebastianApel) <a href="https://twitter.com/MrSebastianApel/status/1239943627847151617?ref_src=twsrc%5Etfw">March 17, 2020</a></blockquote> 
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> --> 
 
 
