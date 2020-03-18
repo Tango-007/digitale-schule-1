@@ -2,7 +2,7 @@
 
 Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hintergrund](#hintergrund)), mit der Bitte um "Good/Best Practices" für Digitalen Unterricht. Die Ergebnisse findet Ihr hier.
 
-[Stand vom 18. März 2020 um 15:15 Uhr]
+[Stand vom 18. März 2020 um 15:45 Uhr]
 
 - [Positive Rückmeldungen](#zusammenfassung-der-ergebnisse)
 - [Probleme und Herausforderungen](#aktuelle-probleme-und-herausforderungen)
@@ -41,6 +41,7 @@ Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet (siehe [Hinter
 
 - @FrauGroddeck berichtet über [E-Mail, OneDrive, Teams und Online-Besprechungen](https://twitter.com/FrauGroddeck/status/1240279485192249347)
 
+- @MrsImpertinent berichtet ebenfalls über [Microsoft Teams](https://twitter.com/MrsImpertinent/status/1239949894103830529
 
 
 ### Links zu gutem Content
@@ -63,6 +64,7 @@ Viele Lehrer & Schulleitungen haben anscheinend Sorge, dass Sie wegen **Verstö�
 
 - @imhoHOF schreibt, es fehle an Intrastruktur, [man arbeite an "Platz auf der Homepage"](https://twitter.com/imhoHOF/status/1240106066207289344)
 
+- @koernal schreibt, [man brauche eigentlich Personen die sich Vollzeit [um die Infrastruktur] kümmern](https://twitter.com/koernal/status/1240213170209333249)
 
 ### Problem: Kein guter, digialer Content 
 
