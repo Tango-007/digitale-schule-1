@@ -1,5 +1,7 @@
 # Digitale Schule
 
+{% include toc.html html=content %}
+
 ## Hintergrund
 
 So hat alles angefangen:
