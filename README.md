@@ -110,7 +110,13 @@ Viele Lehrer & Schulleitungen haben anscheinend Sorge, dass Sie wegen **Verstö�
 
 ### Problem: Bedenken wegen um Zugangsmöglichkeiten für alle Schüler
 
+- [@LillyRennob](https://twitter.com/LillyRennob/status/1239997402469347328), [@maaraavillosa](https://twitter.com/maaraavillosa/status/1240032186922827777) und 
+[@koernal](https://twitter.com/koernal/status/1240000562025902083) haben Bedenken, dass Kinder keinen Zugang zu digitalen Angeboten haben  
  
+- @weinert_ralf kennt Studien, die auf [2-3% Haushalte ohne Internet/Handy hindeuten](https://twitter.com/weinert_ralf/status/1240593765527666689) 
+
+- @Moosmutzl weist darauf hin, dass [Schüler aus finanziell prekären Haushalten in Hessen anscheinend auch einen (begründeten) Antrag auf einen Computer stellen können](https://twitter.com/Moosmutzl/status/1240023919102435328)
+
 
 ### Problem: Jedes Bundesland backt seinen eigenen Kuchen
 
