@@ -68,8 +68,15 @@ Schoolfox
 - [https://schoolfox.com/](https://schoolfox.com/) -> Kann da jemand drüber berichten?
 
 Zoom
-- [https://zoom.com](https://zoom.com) -> Kann da jemand drüber berichten?
+- [https://zoom.com](https://zoom.com)
 
+Zoom ist eine Videoconferencing Software und bietet neben Bildschirmfreigabe auch die Möglichkeit, die Teilnehmer in 
+kleinere "Break-Out" Räume zu verteilen. Auf der Bildschirmfreigabe kann auch gezeichnet werden, was durchaus bei 
+Erklärungen hilft. Mit der kostenlose Variante können max. 45 minütige Konferenzen abgehalten werden.
+
+Miro
+- [https://miro.com](https://miro.com)
+Whiteboard Tool mit dem sehr einfach Sachverhalte visualisiert werden können.
 
 #### Sonstige Tools / Plattformen
 
@@ -141,6 +148,3 @@ Viele Lehrer & Schulleitungen haben anscheinend Sorge, dass Sie wegen **Verstö�
 - Für alle Nicht-Techniker: Gern weiter via Twitter an [@MrSebastianApel](https://twitter.com/MrSebastianApel)
 
 - Für alle Techniker: Schickt mir einen Pull Request. 
-
-
-
