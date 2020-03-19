@@ -8,7 +8,6 @@ Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet, mit der Bitte
 - [Probleme und Herausforderungen](#aktuelle-probleme-und-herausforderungen)
 - [Wer will mitmachen?](#mitmachen)
 
-
 ## Positive Rückmeldungen
 
 ### How To... 
@@ -36,25 +35,39 @@ Ich habe zu Beginn der Corona-Zeit einen Twitter Thread gestartet, mit der Bitte
 
 #### Open-Source Cloud Plattformen
 
+Nextcloud
+
 - @thommy02084982 berichtet von einem [DSGVO-konformen Einsatz einer "Nextcloud" Instanz](https://twitter.com/thommy02084982/status/1240264546503319553)
+
+- @TineHar weiß ähnliches über [Nextcloud an der Reichenberg-Schule](https://twitter.com/TineHar/status/1240155078297862144) zu berichten
+
 
 - @sunnyheza berichtet davon, dass die Medien-AG ihrer Schule eine Cloud eingerichtet hat, dort ausgefüllte Arbeitsblätter von Schülern hochgeladen werden und [Lehrer/Lehrerinnen nun via Telefon und Email Feedback geben](https://twitter.com/sunnyheza/status/1240181872514269186)
 
 
 #### Kommerzielle Tools / Plattformen
 
+Padlet.com
+
 - @stswir (Winterhuder Reformschule) macht [gut Erfahrungen mit padlet.com](https://twitter.com/stswir/status/1240008285765472256)
 
+- @SBahar52256368 nutzt Padlet quasi als ["digitalen Stundenplan" und um Aufgaben zu stellen.](https://twitter.com/SBahar52256368/status/1240528774690635777?s=20)
+
+iServ
 - @JoBencke berichtet, dass seine Kids [iServ nutzen](https://twitter.com/JoBencke/status/1240258453483945984), @Niehausinworten [nutzt es in der Schule, in der er arbeitet](https://twitter.com/Niehausinworten/status/1240157201093844999)
 
+Microsoft Teams
 - @FrauGroddeck berichtet über [E-Mail, OneDrive, Teams und Online-Besprechungen](https://twitter.com/FrauGroddeck/status/1240279485192249347)
 
 - @MrsImpertinent berichtet ebenfalls über [Microsoft Teams](https://twitter.com/MrsImpertinent/status/1239949894103830529)
 
+Discord
 - @Simone04386412 fragte nach Details bzgl. [Discord](https://twitter.com/Simone04386412/status/1240352726686498821)
 
+Schoolfox
 - [https://schoolfox.com/](https://schoolfox.com/) -> Kann da jemand drüber berichten?
 
+Zoom
 - [https://zoom.com](https://zoom.com) -> Kann da jemand drüber berichten?
 
 
@@ -77,6 +90,8 @@ Viele Lehrer & Schulleitungen haben anscheinend Sorge, dass Sie wegen **Verstö�
 
 - @teacheridoo spricht von ["... wird konsequent geblockt wegen datenschutzrechtlicher Bedenken"](https://twitter.com/teacheridoo/status/1240132222952321027)
 - @FinChen zitiert [fehlende "Freigaben für dienstliche Kommunikation"](https://twitter.com/FinChen46307572/status/1240235482509914112)
+
+- @CarloPilz: Bayern hat bzgl. DSGVO eine [Ausnahmeregelung erlassen](https://twitter.com/CarloPiltz/status/1240198428623278081)
 
 ### Problem: Keine IT-Infrastruktur, kein IT-Know How und keine Kapazitäten
 
