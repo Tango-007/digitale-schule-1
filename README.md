@@ -75,10 +75,21 @@ Zoom
 
 - @aguelzow berichtet vom [Portal der Wolfsburger Bildungslandschaft](https://twitter.com/aguelzow/status/1240242065986015232)
 
+#### Tools zur erstellung von Lernmaterial
+
+- [H5P Plugin für verschiedene Platformen zur erstellung von Interaktivem Lernmaterial](https://h5p.org/)
+
 ### Links zu gutem Content
 
 - @cervus: Danke für den Link zu [Sportunterricht in der Coronazeit mit Material von @w1masu](https://padlet.com/jm_oleander23/sjd2h4djkr27)
 
+- [Kostenfreies Lernmaterial für die Grundschule (1. bis 4. Klasse) von grundschulkoenig.de](https://www.grundschulkoenig.de/)
+
+- [Kostenfreies Lernmaterial für die Schule (ab 5. Klasse) von uebungskoenig.de](https://www.uebungskoenig.de)
+
+- [Kostenfreies Lernmaterial für die Grundschule von grundschule-arbeitsblaetter.de](https://www.grundschule-arbeitsblaetter.de)
+
+- [Kostenfreies Lernmaterial für die Grundschule von materialguru.de](https://www.materialguru.de)
 
 ## Aktuelle Probleme und Herausforderungen
 
