@@ -81,6 +81,7 @@ Whiteboard Tool mit dem sehr einfach Sachverhalte visualisiert werden können.
 #### Sonstige Tools / Plattformen
 
 - @aguelzow berichtet vom [Portal der Wolfsburger Bildungslandschaft](https://twitter.com/aguelzow/status/1240242065986015232)
+- [Wikipedia Portal zum Thema virtuelle Klassenzimmer](https://de.wikipedia.org/wiki/Portal:VirtuellesKlassenzimmer)
 
 #### Tools zur erstellung von Lernmaterial
 
