@@ -99,6 +99,32 @@ Whiteboard Tool mit dem sehr einfach Sachverhalte visualisiert werden können.
 
 - [Kostenfreies Lernmaterial für die Grundschule von materialguru.de](https://www.materialguru.de)
 
+### Zusammenfassung bestehender E-Learning Angebote
+
+(Ursprüngliche Quelle WIRvsVIRUSHackathon, Slack User Ment_Isa_Schlünder)
+
+- für Schüler
+- - [TheSimpleApp (Lernvideos, Übungen, Zusammenfassungen)](https://simpleclub.com/de/p/unlimited-basic/)
+- - [Sharezone (Organisation rund um die Schule)](https://sharezone.net/)
+- - [Khan Academy](https://de.khanacademy.org/)
+- - [Sofatutor (Online Lehrvideos)](https://www.sofatutor.com/) (Achtung, Abbonement!)
+- - [Die bekanntesten YouTube Lehr-Kanäle](https://www1.wdr.de/wissen/mensch/youtube-tutorials-uebersicht-100.html)
+- für Lehrer
+- - [Deutschfuchs (Lehrmaterial für Deutschlehrer)](https://deutschfuchs.de/?cookie-state-change=1584885407912)
+- - [Moodle (selbst online Kurse entwickeln)](https://moodle.org/)
+- für Studenten
+- - [Studydrive (zum Teilen von Studienmaterial)](https://www.studydrive.net/de)
+- - [Studysmarter](https://www.studysmarter.de/)
+- - [EdX (Zugriff zu Vorlesungen aus Universitäten, wie Harvard, etc.)](https://www.edx.org/)
+- für Erwachsene
+- - [Masterplan (E-Learning mit Fokus auf Digitalisierung + SoftSkills)](http://masterplan.com)
+- - - --> [hier gibts auch ein Corona Lehrvideo](https://www.youtube.com/watch?v=8u1K5XdqM30)
+- - [Life Club (von Gedankentanken)](https://www.life.club/)
+- - [Online Business Factory (von Gedankentanken)](https://www.business-factory.com/)
+- - [Auch für Erwachsene EdX (Zugriff zu Vorlesungen aus Universitäten, wie Harvard, etc.)](https://www.edx.org/)
+- - [Udemy (Kurse zu fast jedem erdenklichen Thema)](https://www.udemy.com/)
+- [Übersicht über LMS (Learning Management Systeme)](https://www.capterra.com.de/directory/30020/learning-management-system/software)
+
 ## Aktuelle Probleme und Herausforderungen
 
 ### Problem: Rechtslage / Datenschutz / DSGVO
